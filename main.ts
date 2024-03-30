@@ -27,5 +27,3 @@ while (condition) {
     console.log(todos);
 }
 
-
-
